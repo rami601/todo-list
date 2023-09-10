@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T13:08:31.133Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8uSmikq-RGDqe31SkTYC" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T13:51:23.387Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NmqxxaMCNpExzOX-5VYa" version="21.7.2" type="github">
   <diagram name="Page-1" id="X2JnDKoGHxt49fTbtLQz">
-    <mxGraphModel dx="1263" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1263" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-62" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="970" y="240" width="330" height="560" as="geometry" />
+          <mxGeometry x="970" y="230" width="334" height="560" as="geometry" />
         </mxCell>
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-46" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#030303;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-62">
-          <mxGeometry x="20" y="50" width="290" height="460" as="geometry" />
+          <mxGeometry x="20" y="60" width="290" height="460" as="geometry" />
         </mxCell>
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-planet-128.png;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-62">
           <mxGeometry y="20" width="120" height="120" as="geometry" />
@@ -23,10 +23,22 @@
           <mxGeometry x="210" y="390" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#b85450;fillColor=#220AF8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;perimeterSpacing=10;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-62">
-          <mxGeometry x="10" width="310" height="560" as="geometry" />
+          <mxGeometry x="10" y="10" width="310" height="560" as="geometry" />
         </mxCell>
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="wpx5yHl7sN_ZGKeGzRwJ-62" source="wpx5yHl7sN_ZGKeGzRwJ-51" target="wpx5yHl7sN_ZGKeGzRwJ-51">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-88" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.html5;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-62">
+          <mxGeometry x="240" y="420" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699766-icon-12-file-css-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-62">
+          <mxGeometry x="10" y="270" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-91" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-62">
+          <mxGeometry x="240" y="140" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/700045-icon-86-document-file-php-128.png;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-62">
+          <mxGeometry x="40" y="60" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-64" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1065" y="80" width="140" height="60" as="geometry" />
@@ -55,11 +67,38 @@
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-67" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#030303;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
           <mxGeometry x="20" y="50" width="290" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66" source="wpx5yHl7sN_ZGKeGzRwJ-93">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="20" as="sourcePoint" />
             <mxPoint x="59.999999999999545" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66" target="wpx5yHl7sN_ZGKeGzRwJ-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="260" as="sourcePoint" />
+            <mxPoint x="1629.9999999999995" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-93" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#12e2ae;gradientColor=none;strokeColor=#B266FF;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
+          <mxGeometry x="20" y="50" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-103" value="header" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=37;fontFamily=Helvetica;fontColor=#FFFFFF;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
+          <mxGeometry x="70" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-104" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=none;gradientColor=none;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
+          <mxGeometry x="260" y="73.45" width="24" height="23.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
+          <mxGeometry x="20" y="130" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-106" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;gradientColor=default;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
+          <mxGeometry x="35" y="137.5" width="95" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-107" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;gradientColor=default;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
+          <mxGeometry x="140" y="137.5" width="95" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-132" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;gradientColor=default;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
+          <mxGeometry x="250" y="137.5" width="70" height="105" as="geometry" />
         </mxCell>
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-72" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#b85450;fillColor=#220AF8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;perimeterSpacing=10;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-66">
           <mxGeometry x="10" width="310" height="560" as="geometry" />
@@ -123,6 +162,12 @@
         </mxCell>
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-86" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="wpx5yHl7sN_ZGKeGzRwJ-83" source="wpx5yHl7sN_ZGKeGzRwJ-85" target="wpx5yHl7sN_ZGKeGzRwJ-85">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-133" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;html quiz section&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;this quiz section contain N of cards each card will route to quiz page the page will contain some questions and your answers will be saved to your score when you answer a question then the page will go to the next one till you finish&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#0085FC;fontColor=#ffffff;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="30" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-134" value="quiz section&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0081F4;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=left;spacing=20;rounded=0;fontFamily=Helvetica;" vertex="1" parent="wpx5yHl7sN_ZGKeGzRwJ-133">
+          <mxGeometry width="250" height="50" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
