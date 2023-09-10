@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T12:33:09.800Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="vYhNqBJphlWH5F5XihfQ" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T12:33:57.256Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jEjMw9rIjwNcjFYLNYUZ" version="21.7.2" type="github">
   <diagram name="Page-1" id="X2JnDKoGHxt49fTbtLQz">
-    <mxGraphModel dx="969" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#b85450;fillColor=#220AF8;" vertex="1" parent="1">
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#b85450;fillColor=#220AF8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="310" height="560" as="geometry" />
         </mxCell>
         <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-13" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#030303;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="290" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-17" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="435" y="650" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-planet-128.png" vertex="1" parent="1">
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-planet-128.png;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="410" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-20" value="&lt;h1&gt;start&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wpx5yHl7sN_ZGKeGzRwJ-20" value="&lt;h1&gt;start&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="455" y="660" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
